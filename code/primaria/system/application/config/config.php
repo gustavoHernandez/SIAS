@@ -11,7 +11,7 @@
 |	http://example.com/
 |
 */
-$config['base_url']	= "http://localhost/primaria/";
+$config['base_url']	= "http://localhost/SIAS/code/primaria/";
 //$config['base_url']	= "http://www.primaria.com.mx/";
 
 // [ Gustavo H: 23/07/2012 ] Para el tratamiento de imagenes a escala.
