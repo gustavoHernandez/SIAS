@@ -1,0 +1,40 @@
+[20-May-2011 12:52:22] PHP Fatal error:  Uncaught exception 'Doctrine_Table_Exception' with message 'Class "CI_Base" must be a child class of Doctrine_Record' in /home/reawake1/public_html/lexs/system/application/plugins/doctrine/lib/Doctrine/Table.php:319
+Stack trace:
+#0 /home/reawake1/public_html/lexs/system/application/plugins/doctrine/lib/Doctrine/Table.php(249): Doctrine_Table->initDefinition()
+#1 /home/reawake1/public_html/lexs/system/application/plugins/doctrine/lib/Doctrine/Connection.php(1126): Doctrine_Table->__construct('Asuntos', Object(Doctrine_Connection_Mysql), true)
+#2 /home/reawake1/public_html/lexs/system/application/plugins/doctrine/lib/Doctrine/Query.php(1924): Doctrine_Connection->getTable('Asuntos')
+#3 /home/reawake1/public_html/lexs/system/application/plugins/doctrine/lib/Doctrine/Query.php(1722): Doctrine_Query->loadRoot('Asuntos', 'a')
+#4 /home/reawake1/public_html/lexs/system/application/plugins/doctrine/lib/Doctrine/Query/From.php(88): Doctrine_Query->load('Asuntos a')
+#5 /home/reawake1/public_html/lexs/system/application/ in /home/reawake1/public_html/lexs/system/application/plugins/doctrine/lib/Doctrine/Table.php on line 319
+[20-May-2011 12:55:54] PHP Fatal error:  Uncaught exception 'Doctrine_Table_Exception' with message 'Class "CI_Base" must be a child class of Doctrine_Record' in /home/reawake1/public_html/lexs/system/application/plugins/doctrine/lib/Doctrine/Table.php:319
+Stack trace:
+#0 /home/reawake1/public_html/lexs/system/application/plugins/doctrine/lib/Doctrine/Table.php(249): Doctrine_Table->initDefinition()
+#1 /home/reawake1/public_html/lexs/system/application/plugins/doctrine/lib/Doctrine/Connection.php(1126): Doctrine_Table->__construct('Asuntos', Object(Doctrine_Connection_Mysql), true)
+#2 /home/reawake1/public_html/lexs/system/application/plugins/doctrine/lib/Doctrine/Query.php(1924): Doctrine_Connection->getTable('Asuntos')
+#3 /home/reawake1/public_html/lexs/system/application/plugins/doctrine/lib/Doctrine/Query.php(1722): Doctrine_Query->loadRoot('Asuntos', 'a')
+#4 /home/reawake1/public_html/lexs/system/application/plugins/doctrine/lib/Doctrine/Query/From.php(88): Doctrine_Query->load('Asuntos a')
+#5 /home/reawake1/public_html/lexs/system/application/ in /home/reawake1/public_html/lexs/system/application/plugins/doctrine/lib/Doctrine/Table.php on line 319
+[20-May-2011 15:16:28] PHP Fatal error:  Uncaught exception 'Doctrine_Table_Exception' with message 'Class "CI_Base" must be a child class of Doctrine_Record' in /home/reawake1/public_html/lexs/system/application/plugins/doctrine/lib/Doctrine/Table.php:319
+Stack trace:
+#0 /home/reawake1/public_html/lexs/system/application/plugins/doctrine/lib/Doctrine/Table.php(249): Doctrine_Table->initDefinition()
+#1 /home/reawake1/public_html/lexs/system/application/plugins/doctrine/lib/Doctrine/Connection.php(1126): Doctrine_Table->__construct('Asuntos', Object(Doctrine_Connection_Mysql), true)
+#2 /home/reawake1/public_html/lexs/system/application/plugins/doctrine/lib/Doctrine/Query.php(1924): Doctrine_Connection->getTable('Asuntos')
+#3 /home/reawake1/public_html/lexs/system/application/plugins/doctrine/lib/Doctrine/Query.php(1722): Doctrine_Query->loadRoot('Asuntos', 'a')
+#4 /home/reawake1/public_html/lexs/system/application/plugins/doctrine/lib/Doctrine/Query/From.php(88): Doctrine_Query->load('Asuntos a')
+#5 /home/reawake1/public_html/lexs/system/application/ in /home/reawake1/public_html/lexs/system/application/plugins/doctrine/lib/Doctrine/Table.php on line 319
+[20-May-2011 15:19:05] PHP Fatal error:  Uncaught exception 'Doctrine_Table_Exception' with message 'Class "CI_Base" must be a child class of Doctrine_Record' in /home/reawake1/public_html/lexs/system/application/plugins/doctrine/lib/Doctrine/Table.php:319
+Stack trace:
+#0 /home/reawake1/public_html/lexs/system/application/plugins/doctrine/lib/Doctrine/Table.php(249): Doctrine_Table->initDefinition()
+#1 /home/reawake1/public_html/lexs/system/application/plugins/doctrine/lib/Doctrine/Connection.php(1126): Doctrine_Table->__construct('Asuntos', Object(Doctrine_Connection_Mysql), true)
+#2 /home/reawake1/public_html/lexs/system/application/plugins/doctrine/lib/Doctrine/Query.php(1924): Doctrine_Connection->getTable('Asuntos')
+#3 /home/reawake1/public_html/lexs/system/application/plugins/doctrine/lib/Doctrine/Query.php(1722): Doctrine_Query->loadRoot('Asuntos', 'a')
+#4 /home/reawake1/public_html/lexs/system/application/plugins/doctrine/lib/Doctrine/Query/From.php(88): Doctrine_Query->load('Asuntos a')
+#5 /home/reawake1/public_html/lexs/system/application/ in /home/reawake1/public_html/lexs/system/application/plugins/doctrine/lib/Doctrine/Table.php on line 319
+[21-May-2011 11:19:45] PHP Fatal error:  Uncaught exception 'Doctrine_Table_Exception' with message 'Class "CI_Base" must be a child class of Doctrine_Record' in /home/reawake1/public_html/lexs/system/application/plugins/doctrine/lib/Doctrine/Table.php:319
+Stack trace:
+#0 /home/reawake1/public_html/lexs/system/application/plugins/doctrine/lib/Doctrine/Table.php(249): Doctrine_Table->initDefinition()
+#1 /home/reawake1/public_html/lexs/system/application/plugins/doctrine/lib/Doctrine/Connection.php(1126): Doctrine_Table->__construct('Asuntos', Object(Doctrine_Connection_Mysql), true)
+#2 /home/reawake1/public_html/lexs/system/application/plugins/doctrine/lib/Doctrine/Query.php(1924): Doctrine_Connection->getTable('Asuntos')
+#3 /home/reawake1/public_html/lexs/system/application/plugins/doctrine/lib/Doctrine/Query.php(1722): Doctrine_Query->loadRoot('Asuntos', 'a')
+#4 /home/reawake1/public_html/lexs/system/application/plugins/doctrine/lib/Doctrine/Query/From.php(88): Doctrine_Query->load('Asuntos a')
+#5 /home/reawake1/public_html/lexs/system/application/ in /home/reawake1/public_html/lexs/system/application/plugins/doctrine/lib/Doctrine/Table.php on line 319
